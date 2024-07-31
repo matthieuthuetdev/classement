@@ -18,7 +18,7 @@ function createline(element, table) {
     createcell(match.team1, line)
     createcell(match.team2, line)
     createcell(match.score1, line)
-    createcell(match.winner1, line)
+        createcell(match.winner1, line)
     createcell(match.score2, line)
     createcell(match.winner2, line)
 }
